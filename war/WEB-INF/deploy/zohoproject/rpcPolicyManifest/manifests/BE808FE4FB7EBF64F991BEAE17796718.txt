@@ -1,0 +1,2 @@
+serviceClass: com.soupraya.client.GreetingService
+path: 37BB42988D0FB3F980648F18D8A4C8E4.gwt.rpc
